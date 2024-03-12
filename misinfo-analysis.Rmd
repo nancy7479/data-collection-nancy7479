@@ -30,7 +30,10 @@ misinfo_d %>%
 ```
 ##p-value = 0.2303 it tells us how strong the our evidence  is for rejecting the null hypothesis
 ##if we assume that in the population there is no difference in the number of misinformation beliefs between men and women. we take a random sample of 500, there's a 23% chance that we will get a difference this big between the two, even though there is no difference in the population if you take 4 random samples of 500 or 498. if you take 4 random samples of 498 from a population in which there is no difference between the genders.
+## p-value = 0.2303 it tells us how strong the our evidence  is for rejecting the null hypothesis
+## if we assume that in the population there is no difference in the number of misinformation beliefs between men and women. we take a random sample of 500, there's a 23% chance that we will get a difference this big between the two, even though there is no difference in the population if you take 4 random samples of 500 or 498. if you take 4 random samples of 498 from a population in which there is no difference between the genders.
 
 In the sample, males had more misinformation beliefs (M = 0.73) than females (M = 0.61), but this was not statistically significant, t(494.31) = -1.201, p = 0.230.
+# in the sample, males had more misinformation beliefs (M = 0.73) than females (M = 0.61), but this was not statistically significant, t(494.31) = -1.201, p = 0.230.
 
 
